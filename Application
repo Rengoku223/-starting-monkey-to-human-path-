@@ -1,0 +1,6 @@
+#include <stdio.h>
+main ()
+{
+print("I’m <Dmitry> <Kozubenko>, and I’m not a monkey")
+getchar();
+}
